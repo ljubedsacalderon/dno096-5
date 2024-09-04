@@ -50,6 +50,7 @@ h1 {
 }
 
 h2 {
+    font-family: "Bungee Tint", sans-serif;
     font-size: calc(1rem + 1.2vw);
     line-height: 1;
 }
